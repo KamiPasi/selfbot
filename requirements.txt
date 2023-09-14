@@ -1,0 +1,11 @@
+asyncio
+hanlp
+pandas
+psutil
+arrow
+httpx
+openai
+requests
+tiktoken
+discord.py-self
+dotenv
